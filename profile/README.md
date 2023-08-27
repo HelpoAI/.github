@@ -1,12 +1,9 @@
-## Welcome to HelpoAI
+# Welcome to HelpoAI
 
-<!--
+# Overview
 
-**Here are some ideas to get you started:**
+We are actively researching artificial intelligence and constantly looking for new ways to learn about it. We are committed to consistently developing our experience in this field and enhancing our skill set, all while embracing our love of learning and employing artificial intelligence to advance our career prospects.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Services
+
+We offer top-of-the-line AI and Machine Learning services for your business needs, from data preparation to model deployment. Our team is experts in data science, machine learning, and software engineering and is committed to delivering high-quality services to help you reach your business goals.
