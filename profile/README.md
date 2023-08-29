@@ -1,4 +1,4 @@
-# Welcome to HelpoAI
+# Welcome to NeuraX
 
 # Overview
 
