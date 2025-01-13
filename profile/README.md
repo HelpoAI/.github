@@ -1,11 +1,12 @@
-# Welcome to NeuraX
+# Welcome to AlphaSphere.AI
 
 ## Overview
-We are a 3-member Team. We are actively researching artificial intelligence and constantly looking for new ways to learn about it. We are committed to consistently developing our experience in this field and enhancing our skill set, all while embracing our love of learning and employing artificial intelligence to advance our career prospects.
+
+We are a team actively researching artificial intelligence and constantly looking for new ways to learn about it. We are committed to consistently developing our experience in this field and enhancing our skill set, all while embracing our love of learning and employing artificial intelligence to advance our career prospects.
 
 ## Services
-- AI & Machine Learning
-  - We offer top-of-the-line AI and Machine Learning services for your business needs, from data preparation to model deployment. Our team is experts in data science, machine learning, and software engineering and is committed to delivering high-quality services to help you reach your business goals.
-- Data Analysis & Testing
-- Data Design & Visualization
-- Data Extraction & Web Scrapping 
+
+- Artificial intelligence
+- Data Analysis
+- Data Visualization
+- Data Extraction
